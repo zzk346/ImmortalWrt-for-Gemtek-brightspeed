@@ -52,5 +52,5 @@ index d2e6142..1689121 100644
 -	<a href="{{ version.disturl }}" target="_blank" title="{{ entityencode(firmware_info, true) }}">{{ firmware_info }}</a>
 +	<a href="https://github.com/naoki66/ImmortalWrt-for-Gemtek-brightspeed/releases" target="_blank" title="{{ entityencode(firmware_info, true) }}">{{ firmware_info }}</a>
  </footer>
- </div>
+ </main>
  </div>
